@@ -1,7 +1,7 @@
 ########## 2023 Fall PAML Project ##############
 ######### LinearSVM + KernelSVM ################
 
-######### Yang Rong ############################
+######### Young ############################
 
 import numpy as np
 from sklearn.pipeline import make_pipeline
